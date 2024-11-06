@@ -1,2 +1,2 @@
 # Dailyplanner
-CRUD tabla Daily Planner
+Repositorio del proyecto Daily Planner
